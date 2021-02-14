@@ -1,13 +1,6 @@
 # Student-Management-System
 Student Management System implemented in Java and MySQL.
 
-# Some Interfaces
-![st1.png](st1.png)
-<br>
-![st2.png](st2.png)
-<br>
-![st3.png](st3.png)
-
 # Features 
 *	Dashboard 
 *	User can login as multiple roles
@@ -22,3 +15,9 @@ Student Management System implemented in Java and MySQL.
 * NetBeans 8.2
 *	Mysql
 
+# Some Interfaces
+![st1.png](st1.png)
+<br>
+![st2.png](st2.png)
+<br>
+![st3.png](st3.png)
